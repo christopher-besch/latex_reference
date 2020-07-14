@@ -16,7 +16,7 @@ my transcript of the LaTex tutorial from [latex-tutorial.com](https://www.latex-
 
 [07_a_bibtex](07_bibtex/01_BibTex/file.tex)
 
-[07_b_biblatex](07_bibtex/01_BibLaTex/file.tex)
+[07_b_biblatex](07_bibtex/02_BibLaTex/file.tex)
 
 [08_footnotes](08_footnotes/file.tex)
 
