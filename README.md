@@ -1,7 +1,7 @@
 # LaTex Reference
 
 There is one folder for (almost) every lecture from the LaTex tutorial from [latex-tutorial.com](https://www.latex-tutorial.com/).
-This is supposed to be used after you read the tutorial.
+This is supposed to be used after you have read the tutorial.
 
 [01_document_structure](01_document_structure/file.tex)
 
