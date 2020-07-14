@@ -1,0 +1,31 @@
+\documentclass{article}
+
+\usepackage[backend=bibtex,style=verbose-trad2]{biblatex}
+\bibliography{database}
+
+\title{My first document}
+\date{2020-07-02}
+\author{Stromel}
+
+\begin{document}
+	
+	%                         <- page number (optional)
+	Random citation \autocite[1]{DUMMY:1} embedded in text.
+	
+	Second random citation \autocite[1]{ARTICLE:1} embedded in text.
+	
+	\newpage
+	
+	Third random citation \autocite[2]{BOOK:1} embedded in text.
+	
+	Fourth random citation \autocite[2]{BOOK:2} embedded in text.
+	
+	Fifth random citation \autocite[2]{WEBSITE:1} embedded in text.
+	
+	\newpage
+	
+	% \printbibliography
+
+\end{document}
+
+// any files created by BibTex should be deleted before using BibLatex

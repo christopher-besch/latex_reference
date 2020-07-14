@@ -1,0 +1,205 @@
+\documentclass{article}
+
+\usepackage{siunitx}
+\usepackage{multirow}
+% for prettier tables
+\usepackage{booktabs}
+% for displaying tables on multiple pages
+\usepackage{longtable}
+% to display tables in landscape
+\usepackage{rotating}
+
+\title{My first document}
+\date{2020-07-03}
+\author{Stromel}
+
+\sisetup
+{
+	% rounds numbers...
+	round-mode		= places,
+	% ...to 2 places
+	round-precision	= 2,
+}
+
+\begin{document}
+	
+	%             <- float setting
+	\begin{table}[h!]
+	\begin{center}
+		% the \caption and \label commands can be used in the same way as for pictures
+		\caption{Your first table.}
+		\label{tab:table1}
+		% alignments: 1st column left, 2nd middle, 3rd right, with vertical lines in between
+		\begin{tabular}{l|c|r}
+			\textbf{Value 1} & \textbf{Value 2} & \textbf{Value 3}\\
+			$\alpha$         & $\beta$          & $\gamma$ \\
+			% horizontal line
+			\hline
+			% lines (doesn't have to be aligned but easier to read)
+			1                & 1110.1           & a \\
+			2                & 10.1             & b \\
+			3                & 23.113231        & c \\
+		\end{tabular}
+	\end{center}
+	\end{table}
+	
+	\begin{table}[ht]
+	\begin{center}
+		\caption{Table with aligned numbers.}
+		\label{tab:table2}
+		% S is can be used if the package siunitx is used -> numbers get alligned and rounded
+		\begin{tabular}{l|S|r}
+			\textbf{Value 1} & \textbf{Value 2} & \textbf{Value 3}\\
+			$\alpha$         & $\beta$          & $\gamma$ \\
+			\hline
+			1                & 1110.1           & a \\
+			2                & 10.1             & b \\
+			3                & 23.113231        & c \\
+		\end{tabular}
+	\end{center}
+	\end{table}
+	
+	\begin{table}[ht]
+	\begin{center}
+		\caption{Table with multirow.}
+		\label{tab:table3}
+		\begin{tabular}{l|S|r}
+			\textbf{Value 1}      & \textbf{Value 2} & \textbf{Value 3}\\
+			$\alpha$              & $\beta$          & $\gamma$ \\
+			\hline
+			%         <- number of rows
+			%            <- width (* -> auto)
+			%               <- content
+			\multirow{2}{*}{1, 2} & 110.1            & a \\
+			% first row is omitted
+			                      & 10.1             & b \\
+			\hline
+			3                     & 23.113231        & c \\
+		\end{tabular}
+	\end{center}
+	\end{table}
+	
+	\begin{table}[ht]
+	\begin{center}
+		\caption{Table with multicolumn.}
+		\label{tab:table4}
+		\begin{tabular}{l|S|r}
+			\textbf{Value 1} & \textbf{Value 2} & \textbf{Value 3}\\
+			$\alpha$         & $\beta$          & $\gamma$ \\
+			\hline
+			%            <- number of columns
+			%               <- alignment
+			%                  <- content
+			\multicolumn{2}{c|}{1, 2}          & a \\
+			\hline
+			2               & 10.1             & b \\
+			3               & 23.113231        & c \\
+		\end{tabular}
+	\end{center}
+	\end{table}
+	
+	\begin{table}[ht]
+	\begin{center}
+		\caption{Table with multicolumn and multirow.}
+		\label{tab:table5}
+		\begin{tabular}{l|S|r}
+			\textbf{Value 1} & \textbf{Value 2}        & \textbf{Value 3}\\
+			$\alpha$         & $\beta$                 & $\gamma$ \\
+			\hline
+			% multicolumn spanning 2 columns with a multirow spanning 2 rows
+			\multicolumn{2}{c|}{\multirow{2}{*}{1234}} & a \\
+			% empty placeholder
+			\multicolumn{2}{c|}{}                      & b \\
+			\hline
+			3                & 23.113231               & c \\
+			4                & 23.113231               & d \\
+		\end{tabular}
+	\end{center}
+	\end{table}
+	
+	\begin{table}[ht]
+	\begin{center}
+		\caption{Table with booktabs.}
+		\label{tab:table6}
+		\begin{tabular}{l|S|r}
+			% by booktabs
+			\toprule
+			\textbf{Value 1} & \textbf{Value 2} & \textbf{Value 3}\\
+			$\alpha$         & $\beta$          & $\gamma$ \\
+			% by booktabs
+			\midrule
+			1                & 1110.1           & a \\
+			2                & 10.1             & b \\
+			3                & 23.113231        & c \\
+			% by booktabs
+			\bottomrule
+		\end{tabular}
+	\end{center}
+	\end{table}
+	
+	% replaces \begin{table}, alignment must be specified here (no more tabular)
+	\begin{longtable}[c]{l|S|r}
+	
+		\caption{Multipage table.}
+		\label{tab:table7} \\
+		\toprule
+		\textbf{Value 1} & \textbf{Value 2} & \textbf{Value 3}\\
+		$\alpha$         & $\beta$          & $\gamma$ \\
+		\midrule
+		% this denotes the end of the header -> only on the first page
+		\endfirsthead
+		
+		\toprule
+		\textbf{Value 1} & \textbf{Value 2} & \textbf{Value 3}\\
+		$\alpha$         & $\beta$          & $\gamma$ \\
+		\midrule
+		% everything between \endfirsthead and \endhead will be shown as a header on every page
+		\endhead
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		1 & 1110.1 & a\\
+		3 & 23.113231 & c\\
+		\bottomrule
+	\end{longtable}
+	
+	\begin{sidewaystable}[ht]
+	\begin{center}
+		\caption{Sideways table.}
+		\label{tab:table7}
+		\begin{tabular}{l|S|r}
+			% by booktabs
+			\toprule
+			\textbf{Value 1} & \textbf{Value 2} & \textbf{Value 3}\\
+			$\alpha$         & $\beta$          & $\gamma$ \\
+			% by booktabs
+			\midrule
+			1                & 1110.1           & a \\
+			2                & 10.1             & b \\
+			3                & 23.113231        & c \\
+			% by booktabs
+			\bottomrule
+		\end{tabular}
+	\end{center}
+	\end{sidewaystable}
+	
+\end{document}

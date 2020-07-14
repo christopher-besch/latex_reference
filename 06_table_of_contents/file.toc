@@ -1,0 +1,4 @@
+\contentsline {section}{\numberline {1}Section}{1}%
+\contentsline {subsection}{\numberline {1.1}Subsection}{1}%
+\global \c@tocdepth 0\relax 
+\contentsline {section}{\numberline {2}Section2}{1}%

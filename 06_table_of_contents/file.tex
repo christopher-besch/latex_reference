@@ -1,0 +1,50 @@
+\documentclass{article}
+
+\usepackage{setspace}
+
+% \setcounter{tocdepth}{0} show nothing
+% \setcounter{tocdepth}{1} show sections
+% \setcounter{tocdepth}{2} + subsections
+% \setcounter{tocdepth}{3} + subsubsections
+% \setcounter{tocdepth}{4} + paragraphs
+% \setcounter{tocdepth}{5} + subparagraphs
+\setcounter{tocdepth}{2}
+
+
+\title{My first document}
+\date{2020-07-01}
+\author{Stromel}
+
+\begin{document}
+	
+	\doublespacing
+	% needs to be compiled twice
+	\tableofcontents
+	\singlespacing
+	
+	\section{Section}
+		Dummy text
+	
+		\subsection{Subsection}
+			Dummy text
+			
+			% empty dummies
+			\begin{figure}
+				\caption{Dummy figure}
+			\end{figure}
+			
+			\begin{table}
+				\caption{Dummy table}
+			\end{table}
+	
+	% change the depth on the fly
+	\addtocontents{toc}{\setcounter{tocdepth}{0}}
+	\section{Section2}
+		Dummy text
+	
+	\begin{appendix}
+		\listoffigures
+		\listoftables
+	\end{appendix}
+
+\end{document}

@@ -1,0 +1,377 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.19)  3 JUL 2020 09:13
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**file.tex
+(./file.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count175
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count176
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count177
+\c@listtotal=\count178
+\c@listcount=\count179
+\c@liststart=\count180
+\c@liststop=\count181
+\c@citecount=\count182
+\c@citetotal=\count183
+\c@multicitecount=\count184
+\c@multicitetotal=\count185
+\c@instcount=\count186
+\c@maxnames=\count187
+\c@minnames=\count188
+\c@maxitems=\count189
+\c@minitems=\count190
+\c@citecounter=\count191
+\c@maxcitecounter=\count192
+\c@savedcitecounter=\count193
+\c@uniquelist=\count194
+\c@uniquename=\count195
+\c@refsection=\count196
+\c@refsegment=\count197
+\c@maxextratitle=\count198
+\c@maxextratitleyear=\count199
+\c@maxextraname=\count266
+\c@maxextradate=\count267
+\c@maxextraalpha=\count268
+\c@abbrvpenalty=\count269
+\c@highnamepenalty=\count270
+\c@lownamepenalty=\count271
+\c@maxparens=\count272
+\c@parenlevel=\count273
+\blx@tempcnta=\count274
+\blx@tempcntb=\count275
+\blx@tempcntc=\count276
+\blx@maxsection=\count277
+\blx@maxsegment@0=\count278
+\blx@notetype=\count279
+\blx@parenlevel@text=\count280
+\blx@parenlevel@foot=\count281
+\blx@sectionciteorder@0=\count282
+\blx@entrysetcounter=\count283
+\labelnumberwidth=\skip49
+\labelalphawidth=\skip50
+\biblabelsep=\skip51
+\bibitemsep=\skip52
+\bibnamesep=\skip53
+\bibinitsep=\skip54
+\bibparsep=\skip55
+\bibhang=\skip56
+\blx@bcfin=\read2
+\blx@bcfout=\write3
+\blx@langwohyphens=\language85
+\c@mincomprange=\count284
+\c@maxcomprange=\count285
+\c@mincompwidth=\count286
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'verbose-trad2.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count287
+\c@savedafterword=\count288
+\c@annotator=\count289
+\c@savedannotator=\count290
+\c@author=\count291
+\c@savedauthor=\count292
+\c@bookauthor=\count293
+\c@savedbookauthor=\count294
+\c@commentator=\count295
+\c@savedcommentator=\count296
+\c@editor=\count297
+\c@savededitor=\count298
+\c@editora=\count299
+\c@savededitora=\count300
+\c@editorb=\count301
+\c@savededitorb=\count302
+\c@editorc=\count303
+\c@savededitorc=\count304
+\c@foreword=\count305
+\c@savedforeword=\count306
+\c@holder=\count307
+\c@savedholder=\count308
+\c@introduction=\count309
+\c@savedintroduction=\count310
+\c@namea=\count311
+\c@savednamea=\count312
+\c@nameb=\count313
+\c@savednameb=\count314
+\c@namec=\count315
+\c@savednamec=\count316
+\c@translator=\count317
+\c@savedtranslator=\count318
+\c@shortauthor=\count319
+\c@savedshortauthor=\count320
+\c@shorteditor=\count321
+\c@savedshorteditor=\count322
+\c@labelname=\count323
+\c@savedlabelname=\count324
+\c@institution=\count325
+\c@savedinstitution=\count326
+\c@lista=\count327
+\c@savedlista=\count328
+\c@listb=\count329
+\c@savedlistb=\count330
+\c@listc=\count331
+\c@savedlistc=\count332
+\c@listd=\count333
+\c@savedlistd=\count334
+\c@liste=\count335
+\c@savedliste=\count336
+\c@listf=\count337
+\c@savedlistf=\count338
+\c@location=\count339
+\c@savedlocation=\count340
+\c@organization=\count341
+\c@savedorganization=\count342
+\c@origlocation=\count343
+\c@savedoriglocation=\count344
+\c@origpublisher=\count345
+\c@savedorigpublisher=\count346
+\c@publisher=\count347
+\c@savedpublisher=\count348
+\c@language=\count349
+\c@savedlanguage=\count350
+\c@origlanguage=\count351
+\c@savedoriglanguage=\count352
+\c@pageref=\count353
+\c@savedpageref=\count354
+\shorthandwidth=\skip57
+\shortjournalwidth=\skip58
+\shortserieswidth=\skip59
+\shorttitlewidth=\skip60
+\shortauthorwidth=\skip61
+\shorteditorwidth=\skip62
+\locallabelnumberwidth=\skip63
+\locallabelalphawidth=\skip64
+\localshorthandwidth=\skip65
+\localshortjournalwidth=\skip66
+\localshortserieswidth=\skip67
+\localshorttitlewidth=\skip68
+\localshortauthorwidth=\skip69
+\localshorteditorwidth=\skip70
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count355
+\c@textcitetotal=\count356
+\c@textcitemaxnames=\count357
+\c@biburlbigbreakpenalty=\count358
+\c@biburlbreakpenalty=\count359
+\c@biburlnumpenalty=\count360
+\c@biburlucpenalty=\count361
+\c@biburllcpenalty=\count362
+\biburlbigskip=\muskip17
+\biburlnumskip=\muskip18
+\biburlucskip=\muskip19
+\biburllcskip=\muskip20
+\c@smartand=\count363
+)
+Package biblatex Info: Trying to load bibliography style 'verbose-trad2'...
+Package biblatex Info: ... file 'verbose-trad2.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/verbose-trad2.bbx
+File: verbose-trad2.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'authortitle'...
+Package biblatex Info: ... file 'authortitle.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authortitle.bbx
+File: authortitle.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count364
+\c@bbx:relatedtotal=\count365
+)))
+Package biblatex Info: Trying to load citation style 'verbose-trad2'...
+Package biblatex Info: ... file 'verbose-trad2.cbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/verbose-trad2.cbx
+File: verbose-trad2.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+))
+\@quotelevel=\count366
+\@quotereset=\count367
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count368
+\l__pdf_internal_box=\box45
+)
+(./file.aux)
+\openout1 = `file.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout3 = `file-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'file.bbl' found.
+(./file.bbl
+
+Package biblatex Warning: BibTeX reported the following issues
+(biblatex)                with 'WEBSITE:1':
+(biblatex)                - Invalid format of field 'month'.
+
+)
+Package biblatex Info: Reference section=0 on input line 10.
+Package biblatex Info: Reference segment=0 on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 13.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 13.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./file.aux)
+Package logreq Info: Writing requests to 'file.run.xml'.
+\openout1 = `file.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 7900 strings out of 481239
+ 149733 string characters out of 5920377
+ 585143 words of memory out of 5000000
+ 23151 multiletter control sequences out of 15000+600000
+ 534681 words of font info for 32 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,8n,67p,816b,1925s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on file.pdf (2 pages, 61362 bytes).
+PDF statistics:
+ 35 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

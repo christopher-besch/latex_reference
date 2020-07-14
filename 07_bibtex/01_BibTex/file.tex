@@ -1,0 +1,25 @@
+\documentclass{article}
+
+
+\title{My first document}
+\date{2020-07-02}
+\author{Stromel}
+
+\begin{document}
+	
+	Random citation \cite{DUMMY:1} embedded in text.
+	
+	\newpage
+	
+	% using file database.bib
+	% .bib is not used
+	\bibliographystyle{ieeetr}
+	\bibliography{database}
+
+\end{document}
+
+% usa the following command (tested on ubuntu)
+% pdflatex file.tex; bibtex file; pdflatex file.tex; pdflatex file.tex
+
+% styles
+% https://www.latex-tutorial.com/tutorials/bibtex/

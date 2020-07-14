@@ -1,0 +1,29 @@
+% preamble
+\documentclass{article}
+
+\usepackage{comment}
+
+\title{My first document}
+\date{2020-07-01}
+\author{Stromel}
+
+% environment start
+\begin{document}
+	\pagenumbering{gobble}
+	\maketitle
+	\newpage
+	\pagenumbering{arabic}
+	
+	Hello World!
+% environment end
+\end{document}
+
+% comment section
+\begin{comment}
+	\command{option}
+	
+	Useful settings for pagenumbering:
+    	gobble - no numbers
+    	arabic - arabic numbers
+    	roman  - roman numbers
+\end{comment}

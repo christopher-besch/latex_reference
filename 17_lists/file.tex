@@ -1,0 +1,64 @@
+\documentclass{article}
+
+\usepackage{enumitem}
+
+\begin{document}
+	
+	\begin{itemize}
+		\item One
+		\item Two
+		\item Three
+	\end{itemize}
+	
+	\begin{enumerate}
+		\item One
+		\item Two
+		\item Three
+	\end{enumerate}
+	
+	\begin{enumerate}
+		\item One
+		\begin{enumerate}
+			\item Two
+		    \item Three
+		    \item Four
+		\end{enumerate}
+		\item Five
+		\item Six
+		% from bullet to dash
+		\item[--] test
+		\item[$-$] test
+		% from bullet to asterisk
+		\item[$\ast$] test
+		% use any math character
+		\item[$\pi$] test
+	\end{enumerate}
+	
+	% roman numbers
+	\begin{enumerate}[label=(\roman*)]
+		\item One
+		\item Two
+		\item Three
+	\end{enumerate}
+
+	% arabic numbers
+	\begin{enumerate}[label=\arabic*)]
+		\item One
+		\item Two
+		\item Three
+	\end{enumerate}
+
+	% alphabetical
+	\begin{enumerate}[label=\alph*)]
+		\item One
+		\item Two
+		\item Three
+	\end{enumerate}
+	
+	\begin{itemize}[label=$\ast$]
+		\item One
+		\item Two
+		\item Three
+	\end{itemize}
+	
+\end{document}
