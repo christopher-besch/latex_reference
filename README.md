@@ -5,7 +5,7 @@ This is supposed to be used after you have read the tutorial.
 
 [01_document_structure](01_document_structure/file.tex)
 
-[02_document_structure](02_document_structure/file.tex)
+[02_sections](02_document_structure/file.tex)
 
 [03_packages](03_packages/file.tex)
 
