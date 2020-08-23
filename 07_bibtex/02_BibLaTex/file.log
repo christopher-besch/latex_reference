@@ -1,117 +1,115 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.19)  3 JUL 2020 09:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.21)  23 AUG 2020 09:55
 entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**file.tex
-(./file.tex
-LaTeX2e <2020-02-02> patch level 2
-L3 programming layer <2020-02-14>
-(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+**./file.tex
+(file.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-08-07>
+("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+("C:\Program Files\MiKTeX\tex/latex/base\size10.clo"
 File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count167
-\c@section=\count168
-\c@subsection=\count169
-\c@subsubsection=\count170
-\c@paragraph=\count171
-\c@subparagraph=\count172
-\c@figure=\count173
-\c@table=\count174
+\c@part=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
 )
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+("C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.sty"
 Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+("C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty"
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(C:\Users\Stromel\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
+("C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty"
+Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+(C:\Users\Stromel\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count175
+("C:\Program Files\MiKTeX\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count176
 )
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+("C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
+\KV@toks@=\toks15
 )
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+(C:\Users\Stromel\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
-(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+(C:\Users\Stromel\AppData\Roaming\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+(C:\Users\Stromel\AppData\Roaming\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count176
+\lrq@indent=\count177
 
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+(C:\Users\Stromel\AppData\Roaming\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+("C:\Program Files\MiKTeX\tex/latex/base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+("C:\Program Files\MiKTeX\tex/latex/url\url.sty"
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count177
-\c@listtotal=\count178
-\c@listcount=\count179
-\c@liststart=\count180
-\c@liststop=\count181
-\c@citecount=\count182
-\c@citetotal=\count183
-\c@multicitecount=\count184
-\c@multicitetotal=\count185
-\c@instcount=\count186
-\c@maxnames=\count187
-\c@minnames=\count188
-\c@maxitems=\count189
-\c@minitems=\count190
-\c@citecounter=\count191
-\c@maxcitecounter=\count192
-\c@savedcitecounter=\count193
-\c@uniquelist=\count194
-\c@uniquename=\count195
-\c@refsection=\count196
-\c@refsegment=\count197
-\c@maxextratitle=\count198
-\c@maxextratitleyear=\count199
-\c@maxextraname=\count266
-\c@maxextradate=\count267
-\c@maxextraalpha=\count268
-\c@abbrvpenalty=\count269
-\c@highnamepenalty=\count270
-\c@lownamepenalty=\count271
-\c@maxparens=\count272
-\c@parenlevel=\count273
-\blx@tempcnta=\count274
-\blx@tempcntb=\count275
-\blx@tempcntc=\count276
-\blx@maxsection=\count277
-\blx@maxsegment@0=\count278
-\blx@notetype=\count279
-\blx@parenlevel@text=\count280
-\blx@parenlevel@foot=\count281
-\blx@sectionciteorder@0=\count282
-\blx@entrysetcounter=\count283
+\c@tabx@nest=\count178
+\c@listtotal=\count179
+\c@listcount=\count180
+\c@liststart=\count181
+\c@liststop=\count182
+\c@citecount=\count183
+\c@citetotal=\count184
+\c@multicitecount=\count185
+\c@multicitetotal=\count186
+\c@instcount=\count187
+\c@maxnames=\count188
+\c@minnames=\count189
+\c@maxitems=\count190
+\c@minitems=\count191
+\c@citecounter=\count192
+\c@maxcitecounter=\count193
+\c@savedcitecounter=\count194
+\c@uniquelist=\count195
+\c@uniquename=\count196
+\c@refsection=\count197
+\c@refsegment=\count198
+\c@maxextratitle=\count199
+\c@maxextratitleyear=\count266
+\c@maxextraname=\count267
+\c@maxextradate=\count268
+\c@maxextraalpha=\count269
+\c@abbrvpenalty=\count270
+\c@highnamepenalty=\count271
+\c@lownamepenalty=\count272
+\c@maxparens=\count273
+\c@parenlevel=\count274
+\blx@tempcnta=\count275
+\blx@tempcntb=\count276
+\blx@tempcntc=\count277
+\blx@maxsection=\count278
+\blx@maxsegment@0=\count279
+\blx@notetype=\count280
+\blx@parenlevel@text=\count281
+\blx@parenlevel@foot=\count282
+\blx@sectionciteorder@0=\count283
+\blx@entrysetcounter=\count284
 \labelnumberwidth=\skip49
 \labelalphawidth=\skip50
 \biblabelsep=\skip51
@@ -122,88 +120,88 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip56
 \blx@bcfin=\read2
 \blx@bcfout=\write3
-\blx@langwohyphens=\language85
-\c@mincomprange=\count284
-\c@maxcomprange=\count285
-\c@mincompwidth=\count286
+\blx@langwohyphens=\language79
+\c@mincomprange=\count285
+\c@maxcomprange=\count286
+\c@mincompwidth=\count287
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-dm.def"
 File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'verbose-trad2.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count287
-\c@savedafterword=\count288
-\c@annotator=\count289
-\c@savedannotator=\count290
-\c@author=\count291
-\c@savedauthor=\count292
-\c@bookauthor=\count293
-\c@savedbookauthor=\count294
-\c@commentator=\count295
-\c@savedcommentator=\count296
-\c@editor=\count297
-\c@savededitor=\count298
-\c@editora=\count299
-\c@savededitora=\count300
-\c@editorb=\count301
-\c@savededitorb=\count302
-\c@editorc=\count303
-\c@savededitorc=\count304
-\c@foreword=\count305
-\c@savedforeword=\count306
-\c@holder=\count307
-\c@savedholder=\count308
-\c@introduction=\count309
-\c@savedintroduction=\count310
-\c@namea=\count311
-\c@savednamea=\count312
-\c@nameb=\count313
-\c@savednameb=\count314
-\c@namec=\count315
-\c@savednamec=\count316
-\c@translator=\count317
-\c@savedtranslator=\count318
-\c@shortauthor=\count319
-\c@savedshortauthor=\count320
-\c@shorteditor=\count321
-\c@savedshorteditor=\count322
-\c@labelname=\count323
-\c@savedlabelname=\count324
-\c@institution=\count325
-\c@savedinstitution=\count326
-\c@lista=\count327
-\c@savedlista=\count328
-\c@listb=\count329
-\c@savedlistb=\count330
-\c@listc=\count331
-\c@savedlistc=\count332
-\c@listd=\count333
-\c@savedlistd=\count334
-\c@liste=\count335
-\c@savedliste=\count336
-\c@listf=\count337
-\c@savedlistf=\count338
-\c@location=\count339
-\c@savedlocation=\count340
-\c@organization=\count341
-\c@savedorganization=\count342
-\c@origlocation=\count343
-\c@savedoriglocation=\count344
-\c@origpublisher=\count345
-\c@savedorigpublisher=\count346
-\c@publisher=\count347
-\c@savedpublisher=\count348
-\c@language=\count349
-\c@savedlanguage=\count350
-\c@origlanguage=\count351
-\c@savedoriglanguage=\count352
-\c@pageref=\count353
-\c@savedpageref=\count354
+\c@afterword=\count288
+\c@savedafterword=\count289
+\c@annotator=\count290
+\c@savedannotator=\count291
+\c@author=\count292
+\c@savedauthor=\count293
+\c@bookauthor=\count294
+\c@savedbookauthor=\count295
+\c@commentator=\count296
+\c@savedcommentator=\count297
+\c@editor=\count298
+\c@savededitor=\count299
+\c@editora=\count300
+\c@savededitora=\count301
+\c@editorb=\count302
+\c@savededitorb=\count303
+\c@editorc=\count304
+\c@savededitorc=\count305
+\c@foreword=\count306
+\c@savedforeword=\count307
+\c@holder=\count308
+\c@savedholder=\count309
+\c@introduction=\count310
+\c@savedintroduction=\count311
+\c@namea=\count312
+\c@savednamea=\count313
+\c@nameb=\count314
+\c@savednameb=\count315
+\c@namec=\count316
+\c@savednamec=\count317
+\c@translator=\count318
+\c@savedtranslator=\count319
+\c@shortauthor=\count320
+\c@savedshortauthor=\count321
+\c@shorteditor=\count322
+\c@savedshorteditor=\count323
+\c@labelname=\count324
+\c@savedlabelname=\count325
+\c@institution=\count326
+\c@savedinstitution=\count327
+\c@lista=\count328
+\c@savedlista=\count329
+\c@listb=\count330
+\c@savedlistb=\count331
+\c@listc=\count332
+\c@savedlistc=\count333
+\c@listd=\count334
+\c@savedlistd=\count335
+\c@liste=\count336
+\c@savedliste=\count337
+\c@listf=\count338
+\c@savedlistf=\count339
+\c@location=\count340
+\c@savedlocation=\count341
+\c@organization=\count342
+\c@savedorganization=\count343
+\c@origlocation=\count344
+\c@savedoriglocation=\count345
+\c@origpublisher=\count346
+\c@savedorigpublisher=\count347
+\c@publisher=\count348
+\c@savedpublisher=\count349
+\c@language=\count350
+\c@savedlanguage=\count351
+\c@origlanguage=\count352
+\c@savedoriglanguage=\count353
+\c@pageref=\count354
+\c@savedpageref=\count355
 \shorthandwidth=\skip57
 \shortjournalwidth=\skip58
 \shortserieswidth=\skip59
@@ -221,13 +219,13 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-compat.def"
 File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load BibTeX backend compatibility...
 Package biblatex Info: ... file 'blx-bibtex.def' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+("C:\Program Files\MiKTeX\tex/latex/biblatex\blx-bibtex.def"
 File: blx-bibtex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 
 
@@ -237,44 +235,44 @@ Package biblatex Warning: Using fall-back BibTeX(8) backend:
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+ ("C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.def"
 File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
-\c@textcitecount=\count355
-\c@textcitetotal=\count356
-\c@textcitemaxnames=\count357
-\c@biburlbigbreakpenalty=\count358
-\c@biburlbreakpenalty=\count359
-\c@biburlnumpenalty=\count360
-\c@biburlucpenalty=\count361
-\c@biburllcpenalty=\count362
+\c@textcitecount=\count356
+\c@textcitetotal=\count357
+\c@textcitemaxnames=\count358
+\c@biburlbigbreakpenalty=\count359
+\c@biburlbreakpenalty=\count360
+\c@biburlnumpenalty=\count361
+\c@biburlucpenalty=\count362
+\c@biburllcpenalty=\count363
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count363
+\c@smartand=\count364
 )
 Package biblatex Info: Trying to load bibliography style 'verbose-trad2'...
 Package biblatex Info: ... file 'verbose-trad2.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/verbose-trad2.bbx
+("C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\verbose-trad2.bbx"
 File: verbose-trad2.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'authortitle'...
 Package biblatex Info: ... file 'authortitle.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/authortitle.bbx
+("C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\authortitle.bbx"
 File: authortitle.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+("C:\Program Files\MiKTeX\tex/latex/biblatex/bbx\standard.bbx"
 File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count364
-\c@bbx:relatedtotal=\count365
+\c@bbx:relatedcount=\count365
+\c@bbx:relatedtotal=\count366
 )))
 Package biblatex Info: Trying to load citation style 'verbose-trad2'...
 Package biblatex Info: ... file 'verbose-trad2.cbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/verbose-trad2.cbx
+("C:\Program Files\MiKTeX\tex/latex/biblatex/cbx\verbose-trad2.cbx"
 File: verbose-trad2.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -287,18 +285,17 @@ Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+("C:\Program Files\MiKTeX\tex/latex/biblatex\biblatex.cfg"
 File: biblatex.cfg 
 ))
-\@quotelevel=\count366
-\@quotereset=\count367
+\@quotelevel=\count367
+\@quotereset=\count368
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count368
+("C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def"
+File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count369
 \l__pdf_internal_box=\box45
-)
-(./file.aux)
+) (file.aux)
 \openout1 = `file.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -317,7 +314,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+ ("C:\Program Files\MiKTeX\tex/latex/biblatex/lbx\english.lbx"
 File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
@@ -330,7 +327,7 @@ Package biblatex Info: Data encoding 'utf8' specified.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'file.bbl' found.
-(./file.bbl
+ (file.bbl
 
 Package biblatex Warning: BibTeX reported the following issues
 (biblatex)                with 'WEBSITE:1':
@@ -349,29 +346,29 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 13.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./file.aux)
+{C:/Users/Stromel/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+(file.aux)
 Package logreq Info: Writing requests to 'file.run.xml'.
 \openout1 = `file.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 7900 strings out of 481239
- 149733 string characters out of 5920377
- 585143 words of memory out of 5000000
- 23151 multiletter control sequences out of 15000+600000
- 534681 words of font info for 32 fonts, out of 8000000 for 9000
+ 7897 strings out of 481212
+ 149824 string characters out of 2915721
+ 589196 words of memory out of 3000000
+ 23470 multiletter control sequences out of 15000+200000
+ 537431 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,8n,67p,816b,1925s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on file.pdf (2 pages, 61362 bytes).
+ 46i,8n,67p,818b,1925s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program
+ Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmti8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+
+Output written on file.pdf (2 pages, 65253 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
