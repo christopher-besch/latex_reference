@@ -8,10 +8,12 @@
 \usepackage{longtable}
 % to display tables in landscape
 \usepackage{rotating}
+% for displaying long cells
+\usepackage{tabularx}
 
 \title{My first document}
 \date{2020-07-03}
-\author{Stromel}
+\author{Christopher}
 
 \sisetup
 {
@@ -201,5 +203,17 @@
 		\end{tabular}
 	\end{center}
 	\end{sidewaystable}
+	
+	\begin{table}[h!]
+	\begin{tabularx}{\textwidth}{|X|X|X|}
+
+		\textbf{thing1} & \textbf{thing2} \\
+		\hline
+		thing1 & Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean vel cursus metus. Suspendisse sit amet elit sed nunc commodo interdum. Donec quis est vulputate, vulputate tellus eget, consequat urna. Quisque quis nulla fermentum, finibus sem id, egestas tortor. Aliquam sed viverra nulla. Donec scelerisque eros at orci egestas, ut dignissim purus tincidunt. Maecenas nec orci vel turpis venenatis rutrum nec in enim. Maecenas ultricies facilisis purus, eget interdum justo aliquam eu. Phasellus enim augue, pretium sed molestie non, tincidunt vel elit. Sed auctor, nisi quis laoreet rhoncus, nunc metus bibendum lectus, suscipit viverra metus libero in nunc. Nunc bibendum luctus nisi, non venenatis velit faucibus dictum. \\
+		\hline
+		thing2 & stuff \\
+
+	\end{tabularx}
+	\end{table}
 	
 \end{document}
