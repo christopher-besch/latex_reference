@@ -1,25 +1,15 @@
-\documentclass{article}
-
-
-\title{My first document}
-\date{2020-07-02}
-\author{Christopher}
+\documentclass[11pt]{article}
+\usepackage{cite}
 
 \begin{document}
-	
-	Random citation \cite{DUMMY:1} embedded in text.
-	
-	\newpage
-	
-	% using file database.bib
-	% .bib is not used
-	\bibliographystyle{ieeetr}
-	\bibliography{database}
 
+\title{My Article}
+\author{Nobody Jr.}
+\date{Today}
+\maketitle
+
+Blablabla said Nobody ~\cite{Nobody06}.
+
+\bibliography{mybib}{}
+\bibliographystyle{plain}
 \end{document}
-
-% usa the following command (tested on ubuntu)
-% pdflatex file.tex; bibtex file; pdflatex file.tex; pdflatex file.tex
-
-% styles
-% https://www.latex-tutorial.com/tutorials/bibtex/
