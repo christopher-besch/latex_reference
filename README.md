@@ -19,6 +19,7 @@ This is supposed to be used after you have read the tutorial.
 -   [13_source_code](13_source_code/file.tex)
 -   [14_circuitikz](14_circuitikz/file.tex)
 -   [17_lists](17_lists/file.tex)
+-   [math symbols](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
 
 # Templates
 
