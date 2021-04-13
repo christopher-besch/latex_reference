@@ -21,7 +21,7 @@ This is supposed to be used after you have read the tutorial.
 -   [17_lists](17_lists/file.tex)
 -   [math symbols](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
 
-# Templates
+## Templates
 
 These are the templates I personally use.
 
