@@ -25,12 +25,12 @@ This is supposed to be used after you have read the tutorial.
 
 These are the templates I personally use.
 
-## German
+### German
 
 -   [Standard](templates/german/standard/standard.tex)
 -   [Single Page](templates/german/single_page/single_page.tex)
 
-## English
+### English
 
 -   [Standard](templates/english/standard/standard.tex)
 -   [Single Page](templates/english/single_page/single_page.tex)
