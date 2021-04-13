@@ -1,0 +1,65 @@
+\documentclass[
+    10pt,
+    a4paper,
+    oneside,
+    footinclude,
+    BCOR5mm,
+]{scrartcl}
+\usepackage{arsclassica}
+\usepackage[german]{babel}
+
+% default packages
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{tabularx}
+\usepackage{ltablex}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{placeins}
+\graphicspath{{images/}}
+\usepackage{subcaption}
+\usepackage{cite}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+
+\usepackage[verbose]{geometry}
+\geometry{
+    top=40pt, bottom=40pt, left=50pt, right=50pt,
+    textwidth=450pt, textheight=900pt,
+    heightrounded
+}
+
+\pagenumbering{gobble}
+
+% custom commands
+\newcommand{\Title}[1]{
+    \begin{center}
+    \normalfont
+    \fontsize{20}{10}
+    \selectfont
+    \spacedlowsmallcaps{#1}
+    \end{center}
+}
+\newcommand{\By}[1]{
+    \noindent von #1 am \today
+    
+    \vspace{1.2em}
+}
+
+\begin{document}
+
+\Title{[Title Here]}
+\By{[Author here]}
+
+[Text Here]
+
+\end{document}
