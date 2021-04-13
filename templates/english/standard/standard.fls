@@ -36,6 +36,8 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/was/gensymb.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
