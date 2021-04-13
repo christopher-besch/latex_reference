@@ -34,3 +34,8 @@ These are the templates I personally use.
 
 -   [Standard](templates/english/standard/standard.tex)
 -   [Single Page](templates/english/single_page/single_page.tex)
+
+## Usefull Commans
+
+-   `\usepackage[nottoc,numbib]{tocbibind}` add bibliography to table of contents
+
